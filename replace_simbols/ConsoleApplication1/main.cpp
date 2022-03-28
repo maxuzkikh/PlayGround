@@ -1,7 +1,4 @@
-﻿// CPP program for the above approach
-#include <cstring>
-#include <iostream>
-#include <string>
+﻿#include <iostream>
 using namespace std;
 
 // Driver Code
