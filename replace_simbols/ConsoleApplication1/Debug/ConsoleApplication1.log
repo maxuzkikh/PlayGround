@@ -1,3 +1,4 @@
-﻿  main.cpp
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
 D:\work\Git\PlayGround\PlayGround\replace_simbols\ConsoleApplication1\main.cpp(12,20): warning C4018: <: несоответствие типов со знаком и без знака
-  ConsoleApplication1.vcxproj -> D:\work\Git\PlayGround\PlayGround\replace_simbols\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\work\Git\PlayGround\PlayGround\replace_simbols\Debug\PlayGround.exe
